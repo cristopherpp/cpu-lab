@@ -1,0 +1,9 @@
+{
+  "name": "cpu-lab-presentacion",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Presentación interactiva de planificación de CPU, sin dependencias",
+  "scripts": {
+    "dev": "python3 -m http.server 5173"
+  }
+}
